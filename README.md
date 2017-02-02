@@ -1,2 +1,6 @@
 # ENPM808W-Data-Science
-null
+
+Hellow World!
+
+My name is Yishan XU and this is a repo for ENPM808W Data Science homeworks.
+
